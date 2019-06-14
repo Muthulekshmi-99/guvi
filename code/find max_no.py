@@ -1,2 +1,2 @@
-m=list(map(int,input().split()))
-print(max(m))
+ml=list(map(int,input().split()))
+print(max(ml))
